@@ -1,0 +1,17 @@
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.Persistence.EventStore.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.Persistence.EventStore.pdb
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.Persistence.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\EventStore.ClientAPI.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Google.ProtocolBuffers.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.xml
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Akka.Persistence.xml
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\EventStore.ClientAPI.xml
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Google.ProtocolBuffers.xml
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\Dev\Digby.Akka\Digby.EventStore\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Digby.Akka\Digby.EventStore\obj\Debug\Akka.Persistence.EventStore.csprojResolveAssemblyReference.cache
+C:\Dev\Digby.Akka\Digby.EventStore\obj\Debug\Akka.Persistence.EventStore.dll
+C:\Dev\Digby.Akka\Digby.EventStore\obj\Debug\Akka.Persistence.EventStore.pdb
